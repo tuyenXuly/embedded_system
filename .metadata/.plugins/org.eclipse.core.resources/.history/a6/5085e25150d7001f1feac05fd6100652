@@ -1,0 +1,12 @@
+#include "cli_type.h"
+#include "temperature_cli.h"
+#include <stddef.h>
+cli_command_t list_command[]={
+   {"task1",update_task1,"task 1 : read temperature and humidity"},
+   {"task2",update_task2,"task 2 : read DS3231"},
+   {"task3",update_task3,"task 3 : send temperature and humidity to LCD"},
+   {"task4",update_task4,"task 5 : send time, date to LCD"},
+   {"frame",data_frame,"give data frame"},
+   {"ls",ls,"give data all function"},
+   {NULL , NULL , NULL}
+};

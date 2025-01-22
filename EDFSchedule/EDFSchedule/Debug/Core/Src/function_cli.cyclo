@@ -1,0 +1,7 @@
+../Core/Src/function_cli.c:16:6:update_task1	1
+../Core/Src/function_cli.c:40:6:update_task2	1
+../Core/Src/function_cli.c:43:6:update_task3	1
+../Core/Src/function_cli.c:46:6:update_task4	1
+../Core/Src/function_cli.c:49:6:data_frame	1
+../Core/Src/function_cli.c:53:6:help	2
+../Core/Src/function_cli.c:61:6:info	1

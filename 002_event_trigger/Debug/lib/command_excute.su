@@ -1,0 +1,2 @@
+../lib/command_excute.c:8:16:find_command_from_list	24	static
+../lib/command_excute.c:20:6:command_excute	72	static

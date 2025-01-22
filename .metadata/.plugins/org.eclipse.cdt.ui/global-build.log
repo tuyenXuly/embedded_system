@@ -1,0 +1,35 @@
+23:34:46 **** Incremental Build of configuration Debug for project 004 ****
+make -j12 all 
+arm-none-eabi-size  004.elf 
+   text	   data	    bss	    dec	    hex	filename
+  41140	    600	   2808	  44548	   ae04	004.elf
+Finished building: default.size.stdout
+ 
+23:36:04 **** Incremental Build of configuration Debug for project 004 ****
+make -j12 all 
+arm-none-eabi-size  004.elf 
+   text	   data	    bss	    dec	    hex	filename
+  41140	    600	   2808	  44548	   ae04	004.elf
+Finished building: default.size.stdout
+ 
+23:37:26 **** Incremental Build of configuration Debug for project 004 ****
+make -j12 all 
+arm-none-eabi-size  004.elf 
+   text	   data	    bss	    dec	    hex	filename
+  41140	    600	   2808	  44548	   ae04	004.elf
+Finished building: default.size.stdout
+ 
+23:40:04 **** Incremental Build of configuration Debug for project 004 ****
+make -j12 all 
+arm-none-eabi-size  004.elf 
+   text	   data	    bss	    dec	    hex	filename
+  41140	    600	   2808	  44548	   ae04	004.elf
+Finished building: default.size.stdout
+ 
+23:43:20 **** Build of configuration Debug for project 001_simple_periodic ****
+make -j12 all 
+arm-none-eabi-size  001_simple_periodic.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33620	    532	   2364	  36516	   8ea4	001_simple_periodic.elf
+Finished building: default.size.stdout
+ 

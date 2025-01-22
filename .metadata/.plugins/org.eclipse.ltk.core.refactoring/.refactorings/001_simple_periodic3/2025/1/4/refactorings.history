@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;001_simple_periodic3/001_simple_periodic2.ioc&apos; to &apos;001_simple_periodic3.ioc&apos;" description="Rename resource &apos;001_simple_periodic2.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="001_simple_periodic2.ioc" name="001_simple_periodic3.ioc" stamp="1737488872124" updateReferences="true"/>
+</session>

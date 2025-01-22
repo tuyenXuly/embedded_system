@@ -1,0 +1,8 @@
+../lib/function_cli.c:18:6:update_task1	24	static
+../lib/function_cli.c:41:6:update_task2	24	static
+../lib/function_cli.c:62:6:update_task3	24	static
+../lib/function_cli.c:84:6:update_task4	24	static
+../lib/function_cli.c:105:6:data_frame	16	static
+../lib/function_cli.c:109:6:help	24	static
+../lib/function_cli.c:117:6:data_task	16	static
+../lib/function_cli.c:124:6:info	16	static

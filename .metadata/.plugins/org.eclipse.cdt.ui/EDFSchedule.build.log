@@ -1,0 +1,10 @@
+15:26:22 **** Incremental Build of configuration Debug for project EDFSchedule ****
+make -j12 all 
+arm-none-eabi-size  EDFSchedule.elf 
+   text	   data	    bss	    dec	    hex	filename
+  58656	    840	  26880	  86376	  15168	EDFSchedule.elf
+Finished building: default.size.stdout
+ 
+
+15:26:22 Build Finished. 0 errors, 0 warnings. (took 385ms)
+

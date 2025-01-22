@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;002_Non_Preemptive_Event_Triggered/common/queue&apos; to &apos;queue.c&apos;" description="Rename resource &apos;queue&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="common/queue" name="queue.c" stamp="1737455174795" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;001_simple_periodic/common/task.h&apos; to &apos;task_type.h&apos;" description="Rename resource &apos;task.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="common/task.h" name="task_type.h" stamp="1737451825145" updateReferences="true"/>
+</session>
