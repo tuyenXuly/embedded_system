@@ -6,22 +6,30 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="print_cli"/>
+		<item key="selection" value="CLCD_Delay"/>
 		<list key="findhistory">
-			<item value="print_cli"/>
-			<item value="writestring"/>
-			<item value="write"/>
-			<item value="CLCD_I2C_WriteString(&amp;LCD1,Calendar);"/>
-			<item value="HAL_TIM_PeriodElapsedCallback"/>
-			<item value="peri"/>
-			<item value="s"/>
+			<item value="clcd_delay"/>
+			<item value="delay"/>
+			<item value="Delay"/>
+			<item value="hal_delay"/>
+			<item value="CLCD_I2C_Init"/>
+			<item value="hi2c2hi2c3"/>
+			<item value="hi2c3"/>
+			<item value="huart"/>
+			<item value="uart"/>
+			<item value="xtaskgetidle"/>
+			<item value="xtaskget"/>
+			<item value="xtask"/>
+			<item value="xtassk"/>
+			<item value="UART1"/>
+			<item value="SEGGER"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1078"/>
-		<item key="DIALOG_Y_ORIGIN" value="298"/>
+		<item key="DIALOG_X_ORIGIN" value="628"/>
+		<item key="DIALOG_Y_ORIGIN" value="566"/>
 		<item key="DIALOG_WIDTH" value="414"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>

@@ -1,35 +1,28 @@
-23:34:46 **** Incremental Build of configuration Debug for project 004 ****
+12:53:09 **** Incremental Build of configuration Debug for project 002_Non_Preemptive_Event_Triggered ****
 make -j12 all 
-arm-none-eabi-size  004.elf 
+arm-none-eabi-size  002_Non_Preemptive_Event_Triggered.elf 
    text	   data	    bss	    dec	    hex	filename
-  41140	    600	   2808	  44548	   ae04	004.elf
+  41108	    600	   2808	  44516	   ade4	002_Non_Preemptive_Event_Triggered.elf
 Finished building: default.size.stdout
  
-23:36:04 **** Incremental Build of configuration Debug for project 004 ****
+12:53:19 **** Incremental Build of configuration Debug for project 002_Non_Preemptive_Event_Triggered ****
 make -j12 all 
-arm-none-eabi-size  004.elf 
+arm-none-eabi-size  002_Non_Preemptive_Event_Triggered.elf 
    text	   data	    bss	    dec	    hex	filename
-  41140	    600	   2808	  44548	   ae04	004.elf
+  41108	    600	   2808	  44516	   ade4	002_Non_Preemptive_Event_Triggered.elf
 Finished building: default.size.stdout
  
-23:37:26 **** Incremental Build of configuration Debug for project 004 ****
+12:58:31 **** Incremental Build of configuration Debug for project 003_multi_task ****
 make -j12 all 
-arm-none-eabi-size  004.elf 
+arm-none-eabi-size  003_multi_task.elf 
    text	   data	    bss	    dec	    hex	filename
-  41140	    600	   2808	  44548	   ae04	004.elf
+  52888	    508	  85212	 138608	  21d70	003_multi_task.elf
 Finished building: default.size.stdout
  
-23:40:04 **** Incremental Build of configuration Debug for project 004 ****
+12:59:57 **** Incremental Build of configuration Debug for project 003_multi_task ****
 make -j12 all 
-arm-none-eabi-size  004.elf 
+arm-none-eabi-size  003_multi_task.elf 
    text	   data	    bss	    dec	    hex	filename
-  41140	    600	   2808	  44548	   ae04	004.elf
-Finished building: default.size.stdout
- 
-23:43:20 **** Build of configuration Debug for project 001_simple_periodic ****
-make -j12 all 
-arm-none-eabi-size  001_simple_periodic.elf 
-   text	   data	    bss	    dec	    hex	filename
-  33620	    532	   2364	  36516	   8ea4	001_simple_periodic.elf
+  52888	    508	  85212	 138608	  21d70	003_multi_task.elf
 Finished building: default.size.stdout
  

@@ -1,0 +1,10 @@
+01:56:30 **** Incremental Build of configuration Debug for project 003_round_robin ****
+make -j12 all 
+arm-none-eabi-size  003_round_robin.elf 
+   text	   data	    bss	    dec	    hex	filename
+  51392	    508	  85156	 137056	  21760	003_round_robin.elf
+Finished building: default.size.stdout
+ 
+
+01:56:30 Build Finished. 0 errors, 0 warnings. (took 309ms)
+

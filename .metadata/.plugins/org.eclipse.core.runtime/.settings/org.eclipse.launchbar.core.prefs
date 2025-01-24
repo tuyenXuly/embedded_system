@@ -1,12 +1,15 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_RMS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_simple_periodic2,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_LED_Task_Notify,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EDFSchedule Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_simple_periodic2 (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_simple_periodic3,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:004,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_simple_periodic
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_LED_Task_Notify,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EDFSchedule Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:002_LED_tasks,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_LED_Block_Tasks,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_multi_task
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_simple_periodic/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_simple_periodic/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_simple_periodic2\ (1)/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_simple_periodic2\ (2)/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_simple_periodic2/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:002_LED_tasks/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:002_LED_tasks/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_RMS/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_multi_task/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EDFSchedule\ Debug/activeLaunchMode=debug
