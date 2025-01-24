@@ -4,7 +4,7 @@
 - Lưu Đình Tú - 20213016
   
 # Introduction
-- This is a repository containing assignments and reports for the final exam of the embedded systems course. 
+- This is a repository containing assignments and reports for the final exam of the Embedded systems subject. 
 - It includes two single-task models: time-triggered and event-triggered, as well as three multi-task models: time-slice combination priority, RMS, and EDF.
 
 # Requirements
